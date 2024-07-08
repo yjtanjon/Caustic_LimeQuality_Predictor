@@ -1,4 +1,4 @@
-# Caustic_LimeQuality_Predictor
+# Caustic Process Data Analysis
 
 This project aims to analyze and model the caustic process data using machine learning techniques. The dataset contains various parameters related to the caustic process, and the goal is to predict specific chemical properties based on this data.
 
